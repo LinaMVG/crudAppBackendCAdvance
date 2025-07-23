@@ -1,0 +1,7 @@
+# Ignorar variables de entorno
+.env
+
+# Otros comunes para Node.js
+node_modules/
+dist/
+.DS_Store
